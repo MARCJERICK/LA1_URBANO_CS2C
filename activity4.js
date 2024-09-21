@@ -1,4 +1,4 @@
-// Declare a constant for the first and second favorite number
+// Declare a Variable for the first and second favorite number
 let firstfavnum = 16;
 let secondfavnum = 19;
 // Compare if the first number is greater than the second number
